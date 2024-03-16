@@ -1,0 +1,17 @@
+{
+  "name": "com.unity.localllama",
+  "version": "0.1.0",
+  "displayName": "LocalLlama",
+  "description": "A Unity package for integrating OllamaSharp with Unity ECS.",
+  "unity": "2023.2.14f1",
+  "author": {
+    "name": "p3nGu1nZz",
+    "email": "p3nGu1nZz@gmail.com",
+    "url": "https://github.com/p3nGu1nZz"
+  },
+  "dependencies": {
+    "com.unity.inputsystem": "1.7.0",
+    "com.unity.entities": "1.0.16",
+    "com.unity.mathematics": "1.2.6"
+  }
+}
