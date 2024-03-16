@@ -52,8 +52,8 @@ If you use LocalLlama in your research or project, please cite as follows:
 
 ```
 @misc{LocalLlama,
-  author = {p3nGu1nZz},
-  title = {LocalLlama - Unity Wrapper for OllamaSharp},
+  author = {cat-game-research},
+  title = {LocalLlama - Unity Package and API for local Llama2 models using OllamaSharp},
   year = {2024},
   publisher = {GitHub},
   journal = {GitHub repository},
