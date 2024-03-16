@@ -3,15 +3,55 @@
   "version": "0.1.0",
   "displayName": "LocalLlama",
   "description": "A Unity package for integrating OllamaSharp with Unity ECS.",
-  "unity": "2023.2.14f1",
-  "author": {
-    "name": "p3nGu1nZz",
-    "email": "p3nGu1nZz@gmail.com",
-    "url": "https://github.com/p3nGu1nZz"
-  },
+  "unity": "2023.2",
+  "documentation": "https://github.com/cat-game-research/LocalLlama/tree/main/Documentation~",
+  "type": "tool",
+  "keywords": [
+    "Llama",
+    "Llama2",
+    "OLlama",
+    "LLM",
+    "AI",
+    "ECS",
+    "Console"
+  ],
+  "category": "AI/LLM",
   "dependencies": {
     "com.unity.inputsystem": "1.7.0",
     "com.unity.entities": "1.0.16",
-    "com.unity.mathematics": "1.2.6"
+	"com.unity.entities.graphics": "1.0.16"
+    "com.unity.mathematics": "1.2.6",
+    "com.unity.burst": "1.8.12"
+  },
+  "changelog": "CHANGELOG.md",
+  "readme": "README.md",
+  "license": "MIT",
+  "homepage": "https://github.com/cat-game-research/LocalLlama",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cat-game-research/LocalLlama.git"
+  },
+  "author": {
+    "name": "Cat Game Research",
+    "email": "meow@badcatgame.com",
+    "url": "https://cat-game-research.com"
+  },
+  "contributors": [
+    {
+      "name": "p3nGu1nZz",
+      "email": "hello@p3nGu1nZz.me",
+      "url": "https://github.com/p3nGu1nZz"
+    }
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/catgameresearch"
+  },
+  "unityRelease": "1f1",
+  "screenshots": [],
+  "videos": [],
+  "support": {
+    "issues": "https://github.com/cat-game-research/LocalLlama/issues",
+    "forum": "https://forum.unity.com/threads/LocalLlama.123456/"
   }
 }
