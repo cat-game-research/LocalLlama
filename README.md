@@ -13,6 +13,14 @@ LocalLlama is a cutting-edge Unity package that wraps OllamaSharp, enabling AI i
 
 ## Installation
 
+1. Open your Unity Project
+2. Navigate to the Package Manage
+3. click on the + icon in top left
+4. select install with git url
+5. paste `https://github.com/cat-game-research/LocalLlama.git` into the field.
+
+## Development
+
 1. Clone the repository:
    ```
    git clone https://github.com/yourusername/LocalLlama.git
