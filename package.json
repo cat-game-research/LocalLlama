@@ -1,7 +1,7 @@
 {
   "name": "com.unity.localllama",
   "version": "0.1.0",
-  "displayName": "LocalLlama",
+  "displayName": "Local Llama",
   "description": "A Unity package for integrating OllamaSharp with Unity ECS.",
   "unity": "2023.2",
   "documentation": "https://github.com/cat-game-research/LocalLlama/tree/main/Documentation~",
@@ -32,7 +32,7 @@
     "url": "https://github.com/cat-game-research/LocalLlama.git"
   },
   "author": {
-    "name": "Cat Game Research",
+    "name": "cat-game-research",
     "email": "meow@badcatgame.com",
     "url": "https://cat-game-research.com"
   },
